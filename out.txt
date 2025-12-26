@@ -3,3 +3,4 @@ A user connected: -0Iu_-cxSKovUGZJAAAB
 User disconnected: -0Iu_-cxSKovUGZJAAAB
 A user connected: gynV6BDA3MjrhhfSAAAD
 A user connected: SG7Udma73eX7Wf3MAAAF
+User disconnected: SG7Udma73eX7Wf3MAAAF
