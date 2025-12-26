@@ -8,16 +8,17 @@
 </head>
 <body>
     <div class="game-container">
-        <h1>Neon Snake</h1>
+        <h1>Neon Snake Online</h1>
         <div class="score-board">
-            Score: <span id="score">0</span> | High Score: <span id="highScore">0</span>
+            Current Score: <span id="score">0</span>
         </div>
         <canvas id="gameCanvas" width="400" height="400"></canvas>
-        <button id="startBtn">Start Game</button>
+        
         <div class="controls-hint">
-            Use Arrow Keys to Move
+            Use Arrow Keys to Move • Compete with others!
         </div>
     </div>
+    <script src="/socket.io/socket.io.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
